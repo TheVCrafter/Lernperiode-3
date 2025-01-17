@@ -10,5 +10,13 @@ Ich habe mir für diese kurze Lernperiode vorgenommen etwas über Object-Oriente
 Heute habe ich zu Beginn ein Lernvideo auf dem YouTube-Kanal von [Dotnet](https://www.youtube.com/dotnet) zu dem Thema angesehen. Anschliessend informierte ich mich auf der Website von [W3-schools](https://www.w3schools.com/) noch etwas besser zu dem Thema und versuchte unklarheiten los zu werden. Um das Thema etwas besser zu verstehen experimentierte ich anschliessend in VisualStudio etwas mit classes.
 
 ## 17.01.2025
-- [ ] Weitere Informationen zu dem Thema sammeln
-- [ ] Wissen festigen (Durch verwenden in einzelnen einfacheren Anwendungen)
+- [X] Weitere Informationen zu dem Thema sammeln
+- [X] Wissen festigen (Durch verwenden in einzelnen einfacheren Anwendungen)
+
+Zunächst habe ich mich heute erneut etwas auf [W3-schools](https://www.w3schools.com/) informiert und begann anschliessend mit dem Programmieren einer Anwendung, unter der Anwendung von Ojekten. Das Programm dient dazu, verschiedene Daten, wie Vorname, Name und Geburtsdatum einer oder mehrerer Personen abzufragen und anschliessend zu speichern. In dem Programmm gibt es anschliessend eine Suchfunktion, mit welcher man aus den gespeicherten Daten die eigenen Daten herausfiltern lassen kann. Falls die gesuchten Daten nicht vorhanden sind, erkennt dies das Programm und informiert den Nutzer darüber. Falls die Daten jedoch bereits gespeichert wurden, zeigt das Programm dem Nutzer die gewünschten Daten an und ermöglicht es auserdem, die Daten als Textdatei zu speichern.
+
+## 24.01.2025
+- [ ] Den Code des Datenabfrage-Programmes etwas bereinigen 
+- [ ] In einem neuen Projekt weiter mit Objekten experimentieren
+- [ ] Verschiedene Zugriffsmodifikatoren ausprobieren und verstehen
+- [ ] Weitere Informieren und anschliessendes Programmieren einer kleinen Anwendung zum Thema **Interfaces**
