@@ -17,6 +17,11 @@ Zunächst habe ich mich heute erneut etwas auf [W3-schools](https://www.w3school
 
 ## 24.01.2025
 - [ ] Den Code des Datenabfrage-Programmes etwas bereinigen 
-- [ ] In einem neuen Projekt weiter mit Objekten experimentieren
-- [ ] Verschiedene Zugriffsmodifikatoren ausprobieren und verstehen
-- [ ] Weitere Informieren und anschliessendes Programmieren einer kleinen Anwendung zum Thema **Interfaces**
+- [X] In einem neuen Projekt weiter mit Objekten experimentieren
+- [X] Verschiedene Zugriffsmodifikatoren ausprobieren und verstehen
+- [X] Weitere Informieren und anschliessendes Programmieren einer kleinen Anwendung zum Thema **Interfaces**
+
+Heute habe ich eine Programm erstellt, wo Nutzer wichtige Daten zu verschiedenen Modellen von Automarken abrufen können. Es ist möglich, alle vorhandenen Daten abzufragen indem man **All** eingibt und man kann Daten einer spezifischen Automarke herausfiltern, indem man den Namen der Marke angibt. In dem Programm habe ich etwas mit Interfaces experimentiert und konnte damit sicherstellen, das die verschiedenen Klassen für die verschiedenen Automarken gleich aufgebaut sind. Damit ich von überallher auf die verschiedenen Daten in den Klassen zugreifen konnte, musste ich den Zugriffsmodifizierer **Public** verwenden statt einfach eine Class, definiertie ich also eine `Public Class`. Ich befasste mich ausserdem mit weiteren modifizierern wie zum Beispiel **Private**, wodurch der Zugriff auf innerhalb der Klasse beschränkt wird, indem ich auf [learn.microsoft.com](https://learn.microsoft.com/de-de/dotnet/csharp/programming-guide/classes-and-structs/access-modifiers) einen Artikel zu dem Thema durchlas. Ich konnte ausser Public leider aber keine weiteren Zugriffsmodifizierer in meinem Programm anwenden. Zum Bereinigen des Codes meines Programmes von letzer Woche, bin ich aus zeitlichen Gründen nicht mehr gekommen.
+
+## Reflexion
+In dieser Lernperiode konnte ich mich etwas mit dem **Objekt orientierten Programmieren** (kurz OOP) beschäftigen. Ich informierte mich im Internet mithilfe von Lernvideos und Websites zu dem Thema und versuchte anschliessend das gewonnene Wissen anzuwenden, indem ich beim Programmieren zweier Anwendungen Classes sowie Objekte und Interfaces verwendete. Ich bin allgemein sehr zu Frieden mit meinem Fortschritt. Obwohl die Lernperiode leider nur sehr kurz war, wodurch ich mich nicht allzu tiefgründig mit dem Thema auseinandersetzen konnte, half sie mir trotzdem dabei, die Grundlagen von OOP zu verstehen und ich lernte auch sie praktisch anzuwenden. Ich nehme mir ausserdem vor, das gewonnene Wissen auch in Projekten für zukünftige Lernperioden wieder anzuwenden um mich weiter damit vertraut zu machen.
